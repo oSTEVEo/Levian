@@ -1,8 +1,8 @@
 cache/
 binary/
 chroot/
+.build/
 
-.build/config
 live-image-*
 binary.modified_timestamps
 
