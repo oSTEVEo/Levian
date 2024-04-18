@@ -5,4 +5,4 @@ chroot/
 
 live-image-*
 binary.modified_timestamps
-
+chroot.*
