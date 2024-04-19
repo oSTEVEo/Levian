@@ -4,7 +4,7 @@ clean:
 build:
 	lb config
 	echo "======================CONFIG ENDED======================"
-	time sudo lb build
+	sudo lb build
 
 make all:
 	clen build 
