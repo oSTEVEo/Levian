@@ -1,12 +1,13 @@
 Нужно сделать:
+Красивый grub
+Красивый plymouth
 Нормальный login/password для live аккаунта или вообще убрать логин
-Обои
-libreoffice
-wine
-Шрифты
-htop, neofetch, tree, tmux
 
 Сделано:
+wine htop neofetch tree tmux
+libreoffice
+Обои
+Шрифты
 Переключение раскладок
 нормальный look-n-feel
 xfce4

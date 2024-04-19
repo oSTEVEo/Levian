@@ -5,3 +5,15 @@ pulseaudio
 arc-theme
 papirus-icon-theme
 #fonts-noto
+
+wine
+wine64
+libwine
+fonts-wine
+
+htop
+tmux
+tree
+libreoffice
+neofetch
+
