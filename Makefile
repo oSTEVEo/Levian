@@ -6,5 +6,4 @@ build:
 	echo "======================CONFIG ENDED======================"
 	sudo lb build
 
-make all:
-	clen build 
+make all: clean build
