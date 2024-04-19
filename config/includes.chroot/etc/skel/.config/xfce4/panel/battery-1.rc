@@ -16,6 +16,3 @@ colorL=rgb(255,255,0)
 colorC=rgb(255,0,0)
 command_on_low=
 command_on_critical=
-display_time=false
-action_on_critical=0
-
