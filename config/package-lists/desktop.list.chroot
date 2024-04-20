@@ -17,3 +17,6 @@ tree
 libreoffice
 neofetch
 
+firmware-linux
+amd64-microcode
+intel-microcode
