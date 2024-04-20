@@ -16,5 +16,5 @@ Clone repository, download all needed utilities and build image
 ```
 git clone https://github.com/oSTEVEo/Levian.git
 cd Levian
-make all
+make build
 ```
