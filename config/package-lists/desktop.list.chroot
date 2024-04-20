@@ -11,10 +11,17 @@ wine64
 libwine
 fonts-wine
 
+libreoffice
+hunspell-ru
+hyphen-ru
+libreoffice-help-ru
+libreoffice-l10n-ru
+libreoffice-lightproof-ru-ru
+mythes-ru
+
 htop
 tmux
 tree
-libreoffice
 neofetch
 
 firmware-linux
